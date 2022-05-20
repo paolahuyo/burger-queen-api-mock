@@ -2,13 +2,21 @@ POST http://localhost:8080/login HTTP/1.1
 content-type: application/json
 
 {
-    "email": "grace.hopper@systers.xyz",
+    "email": "burguerchef@burguers.com",
     "password": "123456"
 }
 
 GET http://localhost:8080/users HTTP/1.1
 content-type: application/json
 authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlLmhvcHBlckBzeXN0ZXJzLnh5eiIsImlhdCI6MTY1MDIzMzkwOSwiZXhwIjoxNjUwMjM3NTA5LCJzdWIiOiIyIn0.nS99u-MBatZHbexMUenwsGdS8oV55BIaGwI6PSP7BC8
+
+{
+  "id": 15254,
+  "email": "grace.hopper@systers.xyz",
+  "roles": {
+    "admin": true
+  }
+}
 
 GET http://localhost:8080/products HTTP/1.1
 content-type: application/json
@@ -24,5 +32,5 @@ authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlL
 
 {
     "status": "delivered",
-    "dateProcessed": "2022-03-05 16:00"
+    "dateProcessed": "2022-06-05 16:00"
 }
