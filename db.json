@@ -11,7 +11,7 @@
             "id": 1,
             "name": "Sandwich de jamón y queso",
             "price": 1000,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
+            "image": "https://www.whichwich.com/wp-content/uploads/2019/05/Website-Turkey-Club-NoLogo.png",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -53,7 +53,7 @@
             "id": 3,
             "name": "Agua 500ml",
             "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+            "image": "https://www.picng.com/upload/water_bottle/png_water_bottle_17064.png",
             "type": "Almuerzo",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -69,7 +69,7 @@
       "id": 1,
       "name": "Sandwich de jamón y queso",
       "price": 1000,
-      "image": "https://w7.pngwing.com/pngs/607/827/png-transparent-banh-mi-ham-and-cheese-sandwich-panini-melt-sandwich-croque-monsieur-thumbnail.png",
+      "image": "https://www.whichwich.com/wp-content/uploads/2019/05/Website-Turkey-Club-NoLogo.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -85,7 +85,7 @@
       "id": 3,
       "name": "Agua 500ml",
       "price": 500,
-      "image": "https://flyclipart.com/thumb2/water-bottle-png-159607.png",
+      "image": "https://www.picng.com/upload/water_bottle/png_water_bottle_17064.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -93,7 +93,7 @@
       "id": 4,
       "name": "Agua 750ml",
       "price": 700,
-      "image": "https://flyclipart.com/thumb2/water-bottle-png-159607.png",
+      "image": "https://www.picng.com/upload/water_bottle/png_water_bottle_17064.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -141,7 +141,7 @@
       "id": 10,
       "name": "Aros de cebolla",
       "price": 500,
-      "image": "https://www.kindpng.com/picc/m/6-67571_onion-rings-no-background-hd-png-download.png",
+      "image": "https://static.wixstatic.com/media/c79f9d_b25f2544dd0d4281be792a30f3171f2f~mv2.png/v1/fill/w_180,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Tinseltown%20Onion%20Rings.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
