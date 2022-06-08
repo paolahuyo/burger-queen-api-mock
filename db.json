@@ -28,7 +28,7 @@
           }
         }
       ],
-      "status": "canceled",
+      "status": "pending",
       "dataEntry": "2022-03-05 15:00"
     },
     {
@@ -364,7 +364,7 @@
     {
       "client": " carmen",
       "userId": 3,
-      "status": "pending",
+      "status": "cancelled",
       "dateEntry": "2022-06-08 11:37",
       "products": [
         {
@@ -384,7 +384,7 @@
     {
       "client": " oscar",
       "userId": 3,
-      "status": "pending",
+      "status": "cancelled",
       "dateEntry": "2022-06-08 11:38",
       "products": [
         {
@@ -411,6 +411,104 @@
         }
       ],
       "id": 11
+    },
+    {
+      "client": " DERR",
+      "userId": 3,
+      "status": "pending",
+      "dateEntry": "2022-06-08 12:41",
+      "products": [
+        {
+          "amount": 1,
+          "product": {
+            "dateEntry": "2022-06-08 12:41",
+            "id": 8,
+            "image": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.latam/files/DoubleCheesburger_ProductDetail_500x540_1.png",
+            "name": "Hamburguesa doble",
+            "price": 1500,
+            "type": "Almuerzo"
+          }
+        },
+        {
+          "amount": 1,
+          "product": {
+            "dateEntry": "2022-06-08 12:41",
+            "id": 7,
+            "image": "https://img.cppng.com/download/2020-06/6-2-burger-png-image.png",
+            "name": "Hamburguesa simple",
+            "price": 1000,
+            "type": "Almuerzo"
+          }
+        }
+      ],
+      "id": 12
+    },
+    {
+      "client": " prueba",
+      "userId": 3,
+      "status": "pending",
+      "dateEntry": "2022-06-08 12:43",
+      "products": [
+        {
+          "amount": 1,
+          "product": {
+            "dateEntry": "2022-06-08 12:43",
+            "id": 10,
+            "image": "https://static.wixstatic.com/media/c79f9d_b25f2544dd0d4281be792a30f3171f2f~mv2.png/v1/fill/w_180,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Tinseltown%20Onion%20Rings.png",
+            "name": "Aros de cebolla",
+            "price": 500,
+            "type": "Almuerzo"
+          }
+        },
+        {
+          "amount": 1,
+          "product": {
+            "dateEntry": "2022-06-08 12:43",
+            "id": 2,
+            "image": "https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Coffee-PNG/Cup_of_Coffee_PNG_Vector_Clipart.png?m=1507172107",
+            "name": "Café americano",
+            "price": 500,
+            "type": "Desayuno"
+          }
+        },
+        {
+          "amount": 1,
+          "product": {
+            "dateEntry": "2022-06-08 12:43",
+            "id": 5,
+            "image": "https://cdn.picpng.com/cup__mug_coffee/photo-cup--mug-coffee-26997.png",
+            "name": "Café con leche",
+            "price": 700,
+            "type": "Desayuno"
+          }
+        }
+      ],
+      "id": 13
+    },
+    {
+      "client": " ",
+      "userId": 3,
+      "status": "pending",
+      "dateEntry": "2022-06-08 13:18",
+      "products": [],
+      "id": 14
+    },
+    {
+      "client": " ",
+      "userId": 3,
+      "status": "pending",
+      "dateEntry": "2022-06-08 13:20",
+      "products": [],
+      "id": 15
+    },
+    {
+      "client": " ",
+      "userId": 3,
+      "status": "delivered",
+      "dateEntry": "2022-06-08 13:20",
+      "products": [],
+      "id": 16,
+      "dateProcessed": "2022-06-08 16:22"
     }
   ],
   "products": [
