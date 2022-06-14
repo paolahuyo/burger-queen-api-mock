@@ -496,10 +496,11 @@
     {
       "client": " ",
       "userId": 3,
-      "status": "pending",
+      "status": "delivered",
       "dateEntry": "2022-06-08 13:20",
       "products": [],
-      "id": 15
+      "id": 15,
+      "dateProcessed": "2022-06-09 18:02"
     },
     {
       "client": " ",
@@ -641,6 +642,14 @@
         "chef": true
       },
       "id": 4
+    },
+    {
+      "email": "efttt@gg.com",
+      "password": "$2a$10$0.0Xd/hKZNkpgv95/nQM3uCp5Gefnij4FnsVgxfex/eFzy7/p41hy",
+      "roles": {
+        "chef": true
+      },
+      "id": 5
     }
   ]
 }
